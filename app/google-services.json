@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "2977995648",
+    "project_id": "authentication-login-reg-e00ec",
+    "storage_bucket": "authentication-login-reg-e00ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2977995648:android:811e0bfe6e28f9f5243f65",
+        "android_client_info": {
+          "package_name": "le.minh.authentication_login_resgiter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2977995648-dbqn6j91i4ut81oamtcpsrmv1al2i4i2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjswtgRldYRn3foVt2ZOoKaX-5KOPqdkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2977995648-dbqn6j91i4ut81oamtcpsrmv1al2i4i2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
